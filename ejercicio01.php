@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html><head>
         <meta charset="UTF-8">
-        <title>ejemplo 4</title>
+        <title>ejercicio 01</title>
 </head><body>
 <?php
 
